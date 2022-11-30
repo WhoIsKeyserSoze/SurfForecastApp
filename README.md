@@ -1,5 +1,7 @@
 # SurfForecastApp
 
+![image](https://user-images.githubusercontent.com/59146778/204785395-2d4db1cf-4d92-46b2-976f-14e492a1809c.png)
+
 <h2>Introduction:</h2>
 
 En 2022 les surfeurs du monde entier utilisent des solutions de surf forecast pour evaluer au mieux les conditions de surf afin de planifier leurs session de manière à avoir la meilleure qualité de vagues possible. 
